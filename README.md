@@ -46,11 +46,11 @@
 
 ### Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Zolaで始める技術ブログ](https://shimopino.github.io/blog/crafting-tech-blog-with-zola/)
 - [Rustにおけるエラーハンドリング](https://zenn.dev/shimopino/articles/understand-rust-error-handling)
 - [TypeScriptでResult型でのエラーハンドリングを通してモナドの世界を覗いてみる](https://qiita.com/shimopino/items/d194957599dd45e91a5f)
 - [Storybookで始めるVisual Regression Test](https://qiita.com/shimopino/items/e143b3d1a942e577dc31)
 - [実装イメージをつけながら理解するFQGAN](https://qiita.com/shimopino/items/3e4537b0f821292f8022)
-- [WindowsでSSDを増設してデュアルブートしたUbuntuでPyTorch&lpar;GPU&rpar;を使うまで](https://qiita.com/shimopino/items/464ca8d5294a3a2cb9ee)
 <!-- BLOG-POST-LIST:END -->
 
 ---
