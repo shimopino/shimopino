@@ -46,11 +46,11 @@
 
 ### Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [logクレートが提供する柔軟性の仕組みを探る](https://shimopino.github.io/blog/logging-in-rust/)
 - [Zolaで始める技術ブログ](https://shimopino.github.io/blog/crafting-tech-blog-with-zola/)
 - [Rustにおけるエラーハンドリング](https://zenn.dev/shimopino/articles/understand-rust-error-handling)
 - [TypeScriptでResult型でのエラーハンドリングを通してモナドの世界を覗いてみる](https://qiita.com/shimopino/items/d194957599dd45e91a5f)
 - [Storybookで始めるVisual Regression Test](https://qiita.com/shimopino/items/e143b3d1a942e577dc31)
-- [実装イメージをつけながら理解するFQGAN](https://qiita.com/shimopino/items/3e4537b0f821292f8022)
 <!-- BLOG-POST-LIST:END -->
 
 ---
