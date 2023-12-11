@@ -46,7 +46,7 @@
 
 ### Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [proc-macro-workshop で Rust の手続き的マクロに入門する](https://shimopino.github.io/blog/proc-macro-workshop-builder/)
+- [proc-macro-workshop を通して Rust の手続き的マクロを理解する](https://shimopino.github.io/blog/proc-macro-workshop-builder/)
 - [logクレートが提供する柔軟性の仕組みを探る](https://shimopino.github.io/blog/logging-in-rust/)
 - [Zolaで始める技術ブログ](https://shimopino.github.io/blog/crafting-tech-blog-with-zola/)
 - [Rustにおけるエラーハンドリング](https://zenn.dev/shimopino/articles/understand-rust-error-handling)
