@@ -6,6 +6,7 @@
 
 - 2024 Goals:
     - Write at least one article per month
+    - Get started in competitive programming with AtCoder
 
 ### My Language
 
