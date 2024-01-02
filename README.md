@@ -2,13 +2,10 @@
 
 <!-- [![Twitter Follow](https://img.shields.io/twitter/follow/codeSTACKr?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=shimopino) -->
 
-### I'm Software Developer!!
+### I'm Software Developer
 
-- I'm always learning everything!
-- 2022 Goals:
-    - Contribute to OSS
-    - Learn Functional Programming
-    - Learn Domain Driven Design
+- 2024 Goals:
+    - Write at least one article per month
 
 ### My Language
 
