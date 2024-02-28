@@ -31,11 +31,14 @@
 
 ### Certificates
 
-<img align="left" width="35px" height="35px" src="https://user-images.githubusercontent.com/33191285/220005728-d5349ef1-ff24-4741-a36f-9597e8450dfd.png">
-<img align="left" width="35px" height="35px" src="https://user-images.githubusercontent.com/33191285/220005842-63223d96-4933-4d9c-aa25-c27e233980b1.png">
-<img align="left" width="35px" height="35px" src="https://user-images.githubusercontent.com/33191285/220005852-c94e0adf-8450-438a-bb3d-efb51e5dd69b.png">
-<img align="left" width="35px" height="35px" src="https://user-images.githubusercontent.com/33191285/220008276-bab86f81-3638-4ab7-a725-03437b076e4e.png">
-<img align="left" width="35px" height="35px" src="https://user-images.githubusercontent.com/33191285/221154311-7b7f22c5-1587-4ba0-b3cc-faa274c23626.png">
+- CSM: Certified Scrum Master
+- CLF-C02: AWS Cloud Practitioner
+- SOA-C02: AWS SysOps Administrator Associate
+- SAA-C02: AWS Solutions Architect Associate
+- DVA-C02: AWS Developer Associate
+- AZ-900: Azure Fundamentals
+- AZ-104: Azure Administrator Associate
+- AZ-204: Azure Developer Associate
 
 <br />
 <br />
