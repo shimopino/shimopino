@@ -47,11 +47,11 @@
 
 ### Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [RustにおけるVisitorパターン](https://zenn.dev/shimopino/articles/visitor-patterns-in-rust)
 - [proc-macro-workshop を通して Rust の手続き的マクロを理解する](https://shimopino.github.io/blog/proc-macro-workshop-builder/)
 - [logクレートが提供する柔軟性の仕組みを探る](https://shimopino.github.io/blog/logging-in-rust/)
 - [Zolaで始める技術ブログ](https://shimopino.github.io/blog/crafting-tech-blog-with-zola/)
-- [TypeScriptでResult型でのエラーハンドリングを通してモナドの世界を覗いてみる](https://qiita.com/shimopino/items/d194957599dd45e91a5f)
-- [Storybookで始めるVisual Regression Test](https://qiita.com/shimopino/items/e143b3d1a942e577dc31)
+- [Rustにおけるエラーハンドリング](https://zenn.dev/shimopino/articles/understand-rust-error-handling)
 <!-- BLOG-POST-LIST:END -->
 
 ---
