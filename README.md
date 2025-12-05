@@ -47,11 +47,11 @@
 
 ### Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Lean Coffeeを育てる：同じ手法を継続するからこそ見えたこと](https://zenn.dev/shimopino/articles/20251203-how-to-practice-lean-coffee)
 - [ADRを導入して得られた実践知](https://qiita.com/shimopino/items/67bc9d2efb52a1cef40a)
 - [RustにおけるVisitorパターン](https://zenn.dev/shimopino/articles/visitor-patterns-in-rust)
 - [proc-macro-workshop を通して Rust の手続き的マクロを理解する](https://shimopino.github.io/blog/proc-macro-workshop-builder/)
 - [logクレートが提供する柔軟性の仕組みを探る](https://shimopino.github.io/blog/logging-in-rust/)
-- [Zolaで始める技術ブログ](https://shimopino.github.io/blog/crafting-tech-blog-with-zola/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
